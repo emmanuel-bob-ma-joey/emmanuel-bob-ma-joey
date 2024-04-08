@@ -1,4 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋 -->
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cvn7sr6ay7tuonfrk6bae36fs&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **emmanuel-bob-ma-joey/emmanuel-bob-ma-joey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
