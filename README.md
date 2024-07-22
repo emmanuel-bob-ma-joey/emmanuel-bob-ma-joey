@@ -1,6 +1,6 @@
 <!--### Hi there 👋 -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cvn7sr6ay7tuonfrk6bae36fs&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cvn7sr6ay7tuonfrk6bae36fs&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **emmanuel-bob-ma-joey/emmanuel-bob-ma-joey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
